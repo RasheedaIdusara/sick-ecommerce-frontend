@@ -109,6 +109,8 @@ https://github.com/RasheedaIdusara
 LinkedIn:
 https://www.linkedin.com/in/rasheeda-idusara-80840331a/
 
+Udemy Certificate:
+https://www.udemy.com/certificate/UC-1730fda5-9ee2-4f17-aaa6-5a351932bc3f/
 ---
 
 ## 🙏 Acknowledgements
@@ -117,11 +119,9 @@ This project was inspired by the Udemy course:
 
 **Next.js With Tailwind CSS – Build a Frontend Ecommerce Project**
 
-Instructor: **Codesistency**
+Instructor: Vapa Academy
 
 The course served as a learning resource while I implemented the project using **TypeScript (TSX)** instead of the original **JavaScript (JSX)** version and applied my own fixes and improvements.
-
-certificate link : https://www.udemy.com/certificate/UC-1730fda5-9ee2-4f17-aaa6-5a351932bc3f/
 
 ## 📜 License
 
