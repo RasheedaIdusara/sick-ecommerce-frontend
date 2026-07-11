@@ -56,8 +56,14 @@ public/
 The application is fully responsive and optimized for:
 
 - Desktop
+<img width="1349" height="598" alt="image" src="https://github.com/user-attachments/assets/8ed4edf1-64eb-49af-86bd-af1b7df2c12c" />
+
 - Tablet
+<img width="849" height="524" alt="image" src="https://github.com/user-attachments/assets/862a0370-5854-4c33-95a8-b2c8f1d6edb4" />
+
 - Mobile Devices
+<img width="290" height="515" alt="image" src="https://github.com/user-attachments/assets/86369c39-9369-4b69-98c1-66e6d6b6ff56" />
+
 
 ---
 
