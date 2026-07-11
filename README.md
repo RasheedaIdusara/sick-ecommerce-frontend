@@ -103,14 +103,9 @@ This project will continue to evolve with:
 
 Software Engineering Undergraduate
 
-GitHub:
-https://github.com/RasheedaIdusara
-
-LinkedIn:
-https://www.linkedin.com/in/rasheeda-idusara-80840331a/
-
-Udemy Certificate:
-https://www.udemy.com/certificate/UC-1730fda5-9ee2-4f17-aaa6-5a351932bc3f/
+- **GitHub:** [RasheedaIdusara](https://github.com/RasheedaIdusara)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/rasheeda-idusara-80840331a/)
+- **Udemy Certificate:** [View Certificate](https://www.udemy.com/certificate/UC-1730fda5-9ee2-4f17-aaa6-5a351932bc3f/)
 ---
 
 ## 🙏 Acknowledgements
