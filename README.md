@@ -4,7 +4,7 @@ A modern and responsive e-commerce frontend built with **Next.js 15**, **TypeScr
 
 This project showcases a clean shopping UI with reusable React components, responsive layouts, and modern frontend development practices.
 
-🔗 **Live Demo:
+🔗 **Live Demo: https://sick-ecommerce-frontend.vercel.app/
 
 ---
 
